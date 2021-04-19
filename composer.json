@@ -1,10 +1,14 @@
 {
     "name": "mg-code/yii2-validators",
     "description": "Useful collection of validators",
-    "keywords": ["yii2", "extension", "validators"],
+    "keywords": [
+        "yii2",
+        "extension",
+        "validators"
+    ],
     "homepage": "https://github.com/mg-code/yii2-validators",
     "type": "yii2-extension",
-    "license": "BSD 3-Clause",
+    "license": "BSD-3-Clause",
     "authors": [
         {
             "name": "Maris Graudins",
